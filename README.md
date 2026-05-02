@@ -134,9 +134,3 @@ The system supports:
 
 LCD feedback is provided in real time for all operations.
 
-
-
-## Author
-
-Faria Ahmed Suprova
-
