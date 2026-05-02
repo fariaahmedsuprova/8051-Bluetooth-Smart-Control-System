@@ -89,7 +89,7 @@ The project was designed and simulated in Proteus and later implemented on physi
 ## Software & Tools Used
 
 * Proteus
-* Keil µVision
+* MIDE 51
 * Embedded Systems Design
 * UART Communication
 * Hardware Debugging
