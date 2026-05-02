@@ -5,7 +5,7 @@
 
 The following image shows the complete Proteus circuit simulation of the embedded home automation system.
 
-![Proteus Simulation](Proteus Circuit Simulation.jpg)
+![Proteus Simulation](Proteus%20Circuit%20Simulation.jpg)
 
 ---
 
@@ -13,7 +13,7 @@ The following image shows the complete Proteus circuit simulation of the embedde
 
 This image demonstrates the system interface used for selecting different modes of operation.
 
-![Mode Selection](Selecting the Mode of Operation.jpg)
+![Mode Selection](Selecting%20the%20Mode%20of%20Operation.jpg)
 
 ---
 
@@ -21,4 +21,4 @@ This image demonstrates the system interface used for selecting different modes 
 
 The following hardware prototype implements password-protected access and embedded control functionality.
 
-![Hardware Setup](Password Protection in Hardware.png)
+![Hardware Setup](Password%20Protection%20in%20Hardware.png)
