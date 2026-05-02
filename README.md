@@ -1,5 +1,4 @@
 # 8051-Bluetooth-Smart-Control-System
-# Home Automation System using Arduino
 
 ## Proteus Simulation
 
